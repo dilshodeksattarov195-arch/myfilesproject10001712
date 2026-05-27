@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpync",
+        "uuid": 13137888,
+        "checksum": "ouz15u"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
